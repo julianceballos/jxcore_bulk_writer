@@ -2,7 +2,7 @@
 * @Author: Conekta Inc.
 * @Date:   2015-10-14 10:04:04
 * @Last Modified by:   Julian Ceballos
-* @Last Modified time: 2016-04-06 14:17:01
+* @Last Modified time: 2016-04-06 15:10:07
 */
 
 var _ = require('underscore');
@@ -17,6 +17,5 @@ var update_doc = function(file) {
 }
 
 _.each(files, function(file) {
-  console.log(file);
   update_doc(file);
 });
