@@ -1,0 +1,21 @@
+{
+  "protocol": "http",
+  "udp0": {
+    "id": "udp0",
+    "name": "UDP 0",
+    "host": "127.0.0.1",
+    "port": 9000
+  },
+  "udp1": {
+    "id": "udp1",
+    "name": "UDP 1",
+    "host": "127.0.0.1",
+    "port": 9001
+  },
+  "udp2": {
+    "id": "udp2",
+    "name": "UDP 2",
+    "host": "127.0.0.1",
+    "port": 9002
+  }
+}

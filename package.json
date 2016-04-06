@@ -1,0 +1,24 @@
+{
+  "name": "iso_sockets",
+  "version": "0.0.2",
+  "description": "Conekta ISO sockets platform",
+  "main": "server.js",
+  "scripts": {
+    "test": "jx node_modules/mocha/bin/mocha"
+  },
+  "preferedGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conekta/_iso_sockets.git"
+  },
+  "author": "Conekta Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conekta/_iso_sockets/issues"
+  },
+  "homepage": "https://github.com/conekta/_iso_sockets#readme",
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "undpertest": "^1.1.0"
+  }
+}
